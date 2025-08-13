@@ -1,6 +1,7 @@
 <h1 align="center">Olá, eu sou o Denilson!</h1>
 <p align="center">
-  apenas um aprendiz num mundo em constante evolução tecnológica.<strong>tecnologia</strong>, <strong>programação</strong>, <strong>desenvolvimento de web</strong> e <strong>criação de jogos</strong>.<br>
+  apenas um aprendiz num mundo em constante evolução tecnológica.<strong>tecnologia</strong>, <strong>programação</strong>, <strong>desenvolvimento web</strong> e 
+<strong>criação de jogos</strong>.<br>
   Sempre buscando aprender e compartilhar conhecimento!
 </p>
 
