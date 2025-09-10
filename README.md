@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Denilson!</h1>
+<h1 align="center">Olá, eu sou Denilson😎🧑🏻‍💻!</h1>
 <p align="center">
   apenas um aprendiz num mundo em constante evolução tecnológica.<strong>tecnologia</strong>, <strong>programação</strong>, <strong>desenvolvimento web</strong> e 
 <strong>criação de jogos</strong>.<br>
